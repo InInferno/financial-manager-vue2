@@ -2,7 +2,7 @@
 
 - Ссылка на стенд № 1: [Financial Manager Vue2](https://vue2-manager-crm.web.app/ "Домашняя бухгалтерия")
 - Ссылка на стенд № 2: [Financial Manager Vue2](https://vue2-manager-crm.firebaseapp.com/ "Домашняя бухгалтерия")
-- Ссылка на репозиторий: [GitHub Financial Manager Vue3](https://github.com/InInferno/financial-manager-vue2 "Financial Manager Vue2")
+- Ссылка на репозиторий: [GitHub Financial Manager Vue2](https://github.com/InInferno/financial-manager-vue2 "Financial Manager Vue2")
 - Версия: v. 0.0.1
 
 В приложении можно зарегистрироваться или авторизоваться под тестовым аккаунтом:
@@ -22,7 +22,7 @@ Password: 123123
 
 ### Установка:
 
-Клонировать [репозиторий](https://github.com/InInferno/financial-manager-vue3)
+Клонировать [репозиторий](https://github.com/InInferno/financial-manager-vue2)
 
 Установить пакеты
 
