@@ -1,29 +1,39 @@
-# financial-manager-vue2
+# Financial Manager Vue2 (financial-manager-vue2)
 
-## Project setup
-```
-npm install
-```
+- Ссылка на стенд № 1: [Financial Manager Vue2](https://vue2-manager-crm.web.app/ "Домашняя бухгалтерия")
+- Ссылка на стенд № 2: [Financial Manager Vue2](https://vue2-manager-crm.firebaseapp.com/ "Домашняя бухгалтерия")
+- Ссылка на репозиторий: [GitHub Financial Manager Vue3](https://github.com/InInferno/financial-manager-vue2 "Financial Manager Vue2")
+- Версия: v. 0.0.1
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+В приложении можно зарегистрироваться или авторизоваться под тестовым аккаунтом:
+Login: example@example.com
+Password: 123123
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Приложение для ведения домашней бухгалтерии. Реализована регистрация и авторизация. На странице счёта можно наблюдать активный счёт и перевод баланса в различные валюты, подключен API актуальных валют. На странице истории видны все траты, можно переходить на страницу конкреткой категории, также реализована интерактивная круговая диаграмма для наглядности. В планировании видны расходы, доходы, также визуальный прогресс. На странице записей создаются записи, на странице категорий создаются и редактируются категории. В профиле видна информация о пользователе, также доступна локализация, изменяющая язык во всём приложении.
 
-### Run your tests
-```
-npm run test
-```
+### Технологии: 
+- JS
+- Vue2
+- Vuex
+- Firebase
+- GIT
+- HTML
+- CSS
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Установка:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Клонировать [репозиторий](https://github.com/InInferno/financial-manager-vue3)
+
+Установить пакеты
+
+    npm install
+
+### Запуск:
+
+Сборка production
+
+      npm run build
+      
+Режим разработки с hotreload
+
+    npm run serve
